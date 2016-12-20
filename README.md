@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## What is Notitunes?
 
-You can use the [editor on GitHub](https://github.com/emoreno911/notitunes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Notitunes is a Google Chrome extension that will allow you to have desktop notifications every time a song changes while you are listening [Radiotunes](http://radiotunes.com) in your browser.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_Put some nice screenshots here_
 
-### Markdown
+### Why I made Notitunes?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As a developer I spend a considerable amount of time coding or investigating over the internet and music always helps to keep me focused on what I'm going to do, so one of my prefered sources of music is _Radiotunes_ because I do not have to install anything, just type the url and start to listen.
 
-```markdown
-Syntax highlighted code block
+In this case one of the functionalities I miss from desktop players is the notification when a new song starts to play and if theres something _that breaks your concentration effectively_ is to leave your work enviroment to check for the info of a song you like, but with this extension you will always have that information opportunely in a desktop notification.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Features
 
-1. Numbered
-2. List
+- Awesome feature 1
+- Equally awesome feature 2
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Where to Download?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emoreno911/notitunes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_Put the link here_
