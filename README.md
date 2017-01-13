@@ -2,7 +2,15 @@
 
 Notitunes is a Google Chrome extension that will allow you to have desktop notifications every time a song changes while you are listening [Radiotunes](http://radiotunes.com) in your browser.
 
-_Put some nice screenshots here_
+<table>
+ <tr>
+  <td rowspan="2"><img src="store1.jpg" alt="window screenshot" title="window screenshot" /></td>
+  <td><img src="notify0.JPG" alt="simple notification" title="simple notification" /></td>
+ </tr>
+ <tr>
+  <td><img src="notify3.JPG" alt="interactive notification" title="interactive notification" /></td>
+ </tr> 
+</table>
 
 ### Why I made Notitunes?
 
@@ -13,10 +21,9 @@ In this case one of the functionalities I miss from desktop players is the notif
 
 ### Features
 
-- Awesome feature 1
-- Equally awesome feature 2
-
+- Desktop Notifications
+- Store songs info
+- Direct link to search songs on youtube
 
 ### Where to Download?
-
-_Put the link here_
+<a href="https://chrome.google.com/webstore/detail/notifications-for-radiotu/niakkekcegpeeekiielpddigomfehdoa?hl=es-419" target="_blank">Notifications for Radiotunes on Chrome Store</a>
